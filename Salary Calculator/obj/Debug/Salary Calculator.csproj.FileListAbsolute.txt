@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\Shawon23\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+C:\Users\PC21\Desktop\Shawon23\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+C:\Users\PC21\Desktop\Shawon23\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+C:\Users\PC21\Desktop\Shawon23\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Shawon23\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.SalaryUI.resources
+C:\Users\PC21\Desktop\Shawon23\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Properties.Resources.resources
+C:\Users\PC21\Desktop\Shawon23\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Shawon23\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.exe
+C:\Users\PC21\Desktop\Shawon23\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.pdb
